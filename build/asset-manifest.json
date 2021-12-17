@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/repo-name/static/css/main.54eb599e.chunk.css",
+    "main.js": "/repo-name/static/js/main.aa5b46b8.chunk.js",
+    "main.js.map": "/repo-name/static/js/main.aa5b46b8.chunk.js.map",
+    "runtime-main.js": "/repo-name/static/js/runtime-main.8dc4a05a.js",
+    "runtime-main.js.map": "/repo-name/static/js/runtime-main.8dc4a05a.js.map",
+    "static/js/2.f9cd9ce8.chunk.js": "/repo-name/static/js/2.f9cd9ce8.chunk.js",
+    "static/js/2.f9cd9ce8.chunk.js.map": "/repo-name/static/js/2.f9cd9ce8.chunk.js.map",
+    "index.html": "/repo-name/index.html",
+    "static/css/main.54eb599e.chunk.css.map": "/repo-name/static/css/main.54eb599e.chunk.css.map",
+    "static/js/2.f9cd9ce8.chunk.js.LICENSE.txt": "/repo-name/static/js/2.f9cd9ce8.chunk.js.LICENSE.txt",
+    "static/media/note.c7439e12.jpg": "/repo-name/static/media/note.c7439e12.jpg",
+    "static/media/singing.306802e3.jpg": "/repo-name/static/media/singing.306802e3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dc4a05a.js",
+    "static/js/2.f9cd9ce8.chunk.js",
+    "static/css/main.54eb599e.chunk.css",
+    "static/js/main.aa5b46b8.chunk.js"
+  ]
+}
